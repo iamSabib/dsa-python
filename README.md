@@ -52,13 +52,15 @@ Each file includes:
 
 ### Blind 75 Progress
 
-- [ ] Arrays
-- [ ] Strings
+- [x] Arrays
+- [x] Strings
+- [x] Two Pointers
+- [x] Stack
+- [ ] Binary Search
 - [ ] Sliding Window
 - [ ] Linked List
-- [ ] Stack
-- [ ] Binary Search
 - [ ] Trees
+- [ ] Tries
 - [ ] Heap / Priority Queue
 - [ ] Backtracking
 - [ ] Graphs
